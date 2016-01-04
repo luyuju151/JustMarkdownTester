@@ -87,7 +87,7 @@ Open your `Visual Studio Tools Command Prompt (amd64 2013)` and do the following
      to this folder `\fractorium\Builds\include\vendor\CL` (overwrite)
 
 **All Done!**  
-(#folder-structure)
+<a id="folder-structure"></a>
 
 You shuold have folder structure like this:
 
